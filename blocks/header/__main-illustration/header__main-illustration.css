@@ -1,0 +1,8 @@
+.header__main-illustration {
+  position: absolute;
+  width: 765px;
+  height: 608px;
+  /* border: 5px dashed orange; */
+  right: 0;
+  bottom: 0;
+}
